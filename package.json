@@ -1,0 +1,15 @@
+{
+  "name": "routing-rabbitmq",
+  "version": "1.0.0",
+  "description": "Routing messages with RabbitMQ",
+  "main": "emit_log_direct.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.7"
+  }
+}
